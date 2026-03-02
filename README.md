@@ -1,0 +1,1 @@
+This laboratory activity focuses on using Jupyter Notebook to clean, process, and analyze large datasets. The goal is to transform raw data into meaningful insights through systematic data preparation and exploratory analysis.
